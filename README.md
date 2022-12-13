@@ -138,14 +138,3 @@ To create the forecast, complete the following steps:
 
 ---
 
-## Submission
-
-- Create Jupyter notebooks for the analysis, and host them on GitHub.
-
-- Include a Markdown file that summarizes your models and findings, and include this report in your GitHub repo.
-
-- Submit the link to your GitHub project to Bootcamp Spot.
-
----
-
-© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.

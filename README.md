@@ -96,8 +96,8 @@ To create the forecast, I completed the following steps:
 
 1. Read in the daily historical sales (that is, revenue) figures, and then apply a Prophet model to the data.
 
-2. Interpret the model output to identify any seasonal patterns in the company revenue. For example, what are the peak revenue days? 
+2. Interpret the model output to identify any seasonal patterns in the company revenue. 
 
-4. Produce a sales forecast for the finance group. Give a number for the expected total sales in the next quarter. I included the best- and worst-case scenarios to make better plans.
+4. Produce a sales forecast for the finance group. I included the best- and worst-case scenarios to make better plans.
 
 

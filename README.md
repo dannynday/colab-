@@ -43,7 +43,8 @@ First, I configure a Google Colaboratory, or Colab, workspace
 ### Step 2: Mine the Search Traffic Data for Seasonality
 
 To help Marketing, I mined the search traffic data for predictable seasonal patterns of interest in the company. 
-steps I took to complete the following:
+
+Steps I took to complete the following:
 
 1. Group the hourly search data to plot the average traffic by the day of the week.
 
@@ -59,9 +60,7 @@ steps I took to archieve this was:
 
 1. To read and plot the stock price data. Concatenate the stock price data to the search data in a single DataFrame.
 
-2. Note that market events emerged during 2020 that many companies found difficult. But after the initial shock to global financial markets, new customers and revenue increased for e-commerce platforms. 
-
-3. I sliced the data to just the first half of 2020 (`2020-01` to `2020-06` in the DataFrame), and then use hvPlot to plot the data.
+2. I sliced the data to just the first half of 2020 (`2020-01` to `2020-06` in the DataFrame), and then use hvPlot to plot the data.
 
 3. I create a new column in the DataFrame named “Lagged Search Trends” that offsets, or shifts, the search traffic by one hour. Create two additional columns:
 

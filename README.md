@@ -17,7 +17,7 @@ In a bid to drive revenue, I produced a Jupyter notebook that contains data prep
 - Answers to the questions in Jupyter notebook.
 
 - A plot of a forecast for the company’s future revenue.
-- One jupyter notebook and Googgle colab notebook
+- One jupyter notebook and Google colab notebook
 
 The outcome will be:
 
